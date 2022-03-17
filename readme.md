@@ -19,7 +19,7 @@ So during the training of the model we need to find out the values of m and b w.
 
 Here th Gradient Descent algorithm comes into the picture which helps us to evaluate the values of m and b for the best fit line(i.e a line with minimum loss/cost)
 
-Gradient Descent Algorithm
+## Gradient Descent Algorithm
 
 * choose a starting point (initialisation)
 
