@@ -38,6 +38,7 @@ Here th Gradient Descent algorithm comes into the picture which helps us to eval
 Cost function value converging to minimum value as the number of iterations increasing.
 ![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
 
+#### As the cost function value converge to minima(for given m and b values) the line tends to best fit to line.
 ![1) best fit line](https://user-images.githubusercontent.com/37456341/158859589-be43fcb1-e0cf-4051-a108-42e0b49256e4.gif)
 
 
