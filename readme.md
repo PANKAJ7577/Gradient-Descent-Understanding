@@ -11,7 +11,8 @@ As data is sort of linearly distributed so we need to find out the best fit line
 
 line equation: y=m*x + b
 where 
-m=slope of line
+
+      m=slope of line
       
       b=y-intercept of line
 
