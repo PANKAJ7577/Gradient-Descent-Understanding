@@ -6,8 +6,6 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
 
-![3) cost function](https://user-images.githubusercontent.com/37456341/158860221-5ad2743a-cc6b-4370-a92a-955d97e39f83.gif)
-
 ![4) b vs epochs](https://user-images.githubusercontent.com/37456341/158860330-b6a53045-e61a-454c-9189-2936f9f3ffd1.gif)
 
 ![5) m vs epochs](https://user-images.githubusercontent.com/37456341/158860269-978b3988-bf44-4960-904f-5b283c130c8d.gif)
@@ -20,3 +18,4 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ![9) high learning rate](https://user-images.githubusercontent.com/37456341/158859758-82f9f9e4-ed02-4e7b-906d-53ff9bd939d4.gif)
 
+![3) cost function](https://user-images.githubusercontent.com/37456341/158860221-5ad2743a-cc6b-4370-a92a-955d97e39f83.gif)
