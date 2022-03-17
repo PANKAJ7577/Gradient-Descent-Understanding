@@ -2,10 +2,10 @@
 
 Gradient descent (GD) is an iterative first-order optimisation algorithm used to find a local minimum/maximum of a given function. This method is commonly used in machine learning (ML) and deep learning(DL) to minimise a cost/loss function (e.g. in a linear regression).
 
-To understand the Gradient Descent Algorithm let consider a Simple Linear Regression problem whwre we have given the CGPA of the student and we need to predict the package(lpa) he/she cracked.
+To understand the Gradient Descent Algorithm let us consider a Simple Linear Regression problem where for given CGPA of the student and we need to predict the package(lpa) he/she cracked.
 
-step 1: Gathered the student placement data.
-step 2: Train the Linear Regression model with the data.
+* step 1: Gathered the student placement data.
+* step 2: Train the Linear Regression model with the data.
 
 As data is sort of linearly distributed so we need to find out the best fit line.
 
