@@ -8,7 +8,17 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ![4) b vs epochs](https://user-images.githubusercontent.com/37456341/158860330-b6a53045-e61a-454c-9189-2936f9f3ffd1.gif)
 
+## Slope(m) VS epochs plot
+
+Intially the slope is increasing with iterations
+
+After some iterations the change in slope is almost negligible( when algorithm is close to converge)
+
 ![5) m vs epochs](https://user-images.githubusercontent.com/37456341/158860269-978b3988-bf44-4960-904f-5b283c130c8d.gif)
+
+## Contour plot
+
+Contour plots (sometimes called Level Plots) are a way to show a three-dimensional surface on a two-dimensional plane.
 
 ![6) contour plot](https://user-images.githubusercontent.com/37456341/158860386-c51c9f0f-30f6-4724-b8f2-cc2caaef974c.gif)
 
