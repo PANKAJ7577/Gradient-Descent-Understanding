@@ -22,7 +22,7 @@ As data is sort of linearly distributed so we need to find out the best fit line
 
 So during the training of the model we need to find out the values of m and b w.r.t best fit line.
 
-Here th Gradient Descent algorithm comes into the picture which helps us to evaluate the values of m and b for the best fit line(i.e a line with minimum loss/cost)
+Here th Gradient Descent algorithm comes into the picture which helps us to evaluate the values of m and b for the best fit line(i.e a line with minimum loss/cost).
 
 ## Gradient Descent Algorithm
 
@@ -38,7 +38,7 @@ Here th Gradient Descent algorithm comes into the picture which helps us to eval
       * step size is smaller than the tolerance.
 
 
-## Cost function converges to minima. 
+## Cost function converge to minima. 
 
 Cost function value converging to minimum value as the number of iterations increasing.
 ![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
@@ -52,13 +52,13 @@ As the cost function value converge to minima the line(initialize with random m 
 ## y-intercept(b) V/S epochs plot
 
 * Intially the intercept value is decreasing with iterations.
-* After some iterations the change in intercept value is almost negligible(when the cost function value is close to minima)
+* After some iterations the change in intercept value is almost negligible(when the cost function value is close to minima).
 ![4) b vs epochs](https://user-images.githubusercontent.com/37456341/158860330-b6a53045-e61a-454c-9189-2936f9f3ffd1.gif)
 
 ## Slope(m) V/S epochs plot
 
 * Intially the slope value is increasing with iterations.
-* After some iterations the change in slope is almost negligible(when the cost function value is close to minima)
+* After some iterations the change in slope is almost negligible(when the cost function value is close to minima).
 
 ![5) m vs epochs](https://user-images.githubusercontent.com/37456341/158860269-978b3988-bf44-4960-904f-5b283c130c8d.gif)
 
@@ -70,12 +70,12 @@ Contour plots (sometimes called Level Plots) are a way to show a three-dimension
 
 ## Effect of learning rate on Gradient Descent Algorithm
 
-Gradident Descent algorithm is very sensitive to the learning rate
+Gradident Descent algorithm is very sensitive to the learning rate.
 
 ### Following are the three possible effects:
 #### 1) Best learning rate
 
-Here the algorithm converge within the defined epochs/iterations
+Here the algorithm converge within the defined epochs/iterations.
 ![7) best learning rate](https://user-images.githubusercontent.com/37456341/158860410-b9049548-de84-4eff-a961-1d8a4f32ed58.gif)
 
 
