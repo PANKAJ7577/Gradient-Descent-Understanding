@@ -4,3 +4,6 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ![1) best fit line](https://user-images.githubusercontent.com/37456341/158859589-be43fcb1-e0cf-4051-a108-42e0b49256e4.gif)
 
+
+![9) high learning rate](https://user-images.githubusercontent.com/37456341/158859758-82f9f9e4-ed02-4e7b-906d-53ff9bd939d4.gif)
+
