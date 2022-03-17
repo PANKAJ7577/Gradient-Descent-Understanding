@@ -12,10 +12,11 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ![6) contour plot](https://user-images.githubusercontent.com/37456341/158860386-c51c9f0f-30f6-4724-b8f2-cc2caaef974c.gif)
 
-Effect of learning rate on Gradient Descent Algorithm
+## Effect of learning rate on Gradient Descent Algorithm
 
 Gradident Descent algorithm is very sensitive to thr learning rate
-Following are the three possible effects:
+
+### Following are the three possible effects:
 1) Best learning rate: Here the algorithm converges within the defined epochs
 ![7) best learning rate](https://user-images.githubusercontent.com/37456341/158860410-b9049548-de84-4eff-a961-1d8a4f32ed58.gif)
 
