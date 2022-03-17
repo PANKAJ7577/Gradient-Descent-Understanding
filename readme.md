@@ -5,14 +5,18 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 ![1) best fit line](https://user-images.githubusercontent.com/37456341/158859589-be43fcb1-e0cf-4051-a108-42e0b49256e4.gif)
 
 ![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
+## y-intercept(b) VS epochs plot
 
+Intially the intercept value is decreasing with iterations.
+
+After some iterations the change in intercept value is almost negligible(when the cost function value is close to minima)
 ![4) b vs epochs](https://user-images.githubusercontent.com/37456341/158860330-b6a53045-e61a-454c-9189-2936f9f3ffd1.gif)
 
 ## Slope(m) VS epochs plot
 
-Intially the slope value is increasing with iterations
+Intially the slope value is increasing with iterations.
 
-After some iterations the change in slope is almost negligible( when the cost function value is close to minima)
+After some iterations the change in slope is almost negligible(when the cost function value is close to minima)
 
 ![5) m vs epochs](https://user-images.githubusercontent.com/37456341/158860269-978b3988-bf44-4960-904f-5b283c130c8d.gif)
 
