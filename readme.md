@@ -21,16 +21,16 @@ Here th Gradient Descent algorithm comes into the picture which helps us to eval
 
 Gradient Descent Algorithm
 
-choose a starting point (initialisation)
+* choose a starting point (initialisation)
 
-calculate gradient at this point
+* calculate gradient at this point
 
-make a scaled step in the opposite direction to the gradient (objective: minimise)
+* make a scaled step in the opposite direction to the gradient (objective: minimise)
 
-repeat points 2 and 3 until one of the criteria is met:
+* repeat points 2 and 3 until one of the criteria is met:
 
-maximum number of iterations reached
-step size is smaller than the tolerance.
+      * maximum number of iterations reached
+      * step size is smaller than the tolerance.
 
 
 Now while training the model 
