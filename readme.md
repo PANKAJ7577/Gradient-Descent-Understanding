@@ -44,9 +44,8 @@ Cost function value converging to minimum value as the number of iterations incr
 
 ## y-intercept(b) V/S epochs plot
 
-Intially the intercept value is decreasing with iterations.
-
-After some iterations the change in intercept value is almost negligible(when the cost function value is close to minima)
+* Intially the intercept value is decreasing with iterations.
+* After some iterations the change in intercept value is almost negligible(when the cost function value is close to minima)
 ![4) b vs epochs](https://user-images.githubusercontent.com/37456341/158860330-b6a53045-e61a-454c-9189-2936f9f3ffd1.gif)
 
 ## Slope(m) V/S epochs plot
