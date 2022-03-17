@@ -38,7 +38,7 @@ Here th Gradient Descent algorithm comes into the picture which helps us to eval
       * step size is smaller than the tolerance.
 
 
-## Gradient Descent algorithm Visualisation
+## How cost function converges to minima 
 
 Cost function value converging to minimum value as the number of iterations increasing.
 ![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
@@ -87,6 +87,7 @@ Here the steps are going to be very small, hence the algorithm might not converg
 
 Here the steps are going to be large, hence the algorithm will never converge to the minima.
 ![9) high learning rate](https://user-images.githubusercontent.com/37456341/158859758-82f9f9e4-ed02-4e7b-906d-53ff9bd939d4.gif)
+
 
 
 ## Gradient Descent algorithm Visualisation
