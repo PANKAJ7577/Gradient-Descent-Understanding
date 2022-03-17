@@ -7,6 +7,9 @@ To understand the Gradient Descent Algorithm let us consider a Simple Linear Reg
 * step 1: Gathered the student placement data.
 * step 2: Train the Linear Regression model with the data.
 
+![dataset plot](https://user-images.githubusercontent.com/37456341/158873842-d88373a1-a6d2-4cd6-b0b6-e070fa5afa4f.png)
+
+
 As data is sort of linearly distributed so we need to find out the best fit line.
 
 #### line equation: y=m*x + b
