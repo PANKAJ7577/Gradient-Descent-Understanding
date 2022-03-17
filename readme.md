@@ -10,9 +10,9 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ## Slope(m) VS epochs plot
 
-Intially the slope is increasing with iterations
+Intially the slope value is increasing with iterations
 
-After some iterations the change in slope is almost negligible( when algorithm is close to converge)
+After some iterations the change in slope is almost negligible( when the cost function value is close to minima)
 
 ![5) m vs epochs](https://user-images.githubusercontent.com/37456341/158860269-978b3988-bf44-4960-904f-5b283c130c8d.gif)
 
