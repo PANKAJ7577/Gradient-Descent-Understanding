@@ -77,6 +77,7 @@ Here the algorithm converge within the defined epochs/iterations
 ![7) best learning rate](https://user-images.githubusercontent.com/37456341/158860410-b9049548-de84-4eff-a961-1d8a4f32ed58.gif)
 
 
+
 #### 2) Low learning rate
 
 Here the steps are going to be very small, hence the algorithm might not converge within the defined epochs.
@@ -87,4 +88,6 @@ Here the steps are going to be very small, hence the algorithm might not converg
 Here the steps are going to be large, hence the algorithm will never converge to the minima.
 ![9) high learning rate](https://user-images.githubusercontent.com/37456341/158859758-82f9f9e4-ed02-4e7b-906d-53ff9bd939d4.gif)
 
+
+## Gradient Descent algorithm Visualisation
 ![3) cost function](https://user-images.githubusercontent.com/37456341/158860221-5ad2743a-cc6b-4370-a92a-955d97e39f83.gif)
