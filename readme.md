@@ -9,8 +9,8 @@ To understand the Gradient Descent Algorithm let us consider a Simple Linear Reg
 
 As data is sort of linearly distributed so we need to find out the best fit line.
 
-line equation: y=m*x + b
-where 
+line equation:
+#### y=m*x + b
 
       m=slope of line
       
