@@ -2,17 +2,37 @@
 
 Gradient descent (GD) is an iterative first-order optimisation algorithm used to find a local minimum/maximum of a given function. This method is commonly used in machine learning (ML) and deep learning(DL) to minimise a cost/loss function (e.g. in a linear regression).
 
+To understand the Gradient Descent Algorithm let consider a Simple Linear Regression problem whwre we have given the CGPA of the student and we need to predict the package(lpa) he/she cracked.
+
+step 1: Gathered the student placement data.
+step 2: Train the Linear Regression model with the data.
+
+As data is sort of linearly distributed so we need to find out the best fit line.
+
+line equation: y=m*x + b
+where m=slope of line
+      b=y-intercept of line
+
+w.r.t. problem equation is: package = m * CGPA + b
+
+So during the training of the model we need to find out the values of m and b w.r.t best fit line.
+
+Here th Gradient Descent algorithm comes into the picture which helps us to evaluate the values of m and b for the best fit line(i.e a line with minimum loss/cost)
+
+
+
+Now while training the model 
 ![1) best fit line](https://user-images.githubusercontent.com/37456341/158859589-be43fcb1-e0cf-4051-a108-42e0b49256e4.gif)
 
 ![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
-## y-intercept(b) VS epochs plot
+## y-intercept(b) V/S epochs plot
 
 Intially the intercept value is decreasing with iterations.
 
 After some iterations the change in intercept value is almost negligible(when the cost function value is close to minima)
 ![4) b vs epochs](https://user-images.githubusercontent.com/37456341/158860330-b6a53045-e61a-454c-9189-2936f9f3ffd1.gif)
 
-## Slope(m) VS epochs plot
+## Slope(m) V/S epochs plot
 
 Intially the slope value is increasing with iterations.
 
