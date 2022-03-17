@@ -14,17 +14,23 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 ## Effect of learning rate on Gradient Descent Algorithm
 
-Gradident Descent algorithm is very sensitive to thr learning rate
+Gradident Descent algorithm is very sensitive to the learning rate
 
 ### Following are the three possible effects:
-1) Best learning rate: Here the algorithm converges within the defined epochs
+#### 1) Best learning rate
+
+Here the algorithm converges within the defined epochs
 ![7) best learning rate](https://user-images.githubusercontent.com/37456341/158860410-b9049548-de84-4eff-a961-1d8a4f32ed58.gif)
 
 
-2) Low learning rate: Here the steps are going to be very small, hence the convergence might not take place within the defined epochs.
+#### 2) Low learning rate
+
+Here the steps are going to be very small, hence the convergence might not take place within the defined epochs.
 ![8) low learning rate](https://user-images.githubusercontent.com/37456341/158860454-6322b1e7-83e6-40f6-a87f-aae7cea7ce37.gif)
 
-3) High learning rate: In this case the algorithm may never converge to the minima.
+#### 3) High learning rate
+
+In this case the algorithm may never converge to the minima.
 ![9) high learning rate](https://user-images.githubusercontent.com/37456341/158859758-82f9f9e4-ed02-4e7b-906d-53ff9bd939d4.gif)
 
 ![3) cost function](https://user-images.githubusercontent.com/37456341/158860221-5ad2743a-cc6b-4370-a92a-955d97e39f83.gif)
