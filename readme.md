@@ -33,10 +33,14 @@ Here th Gradient Descent algorithm comes into the picture which helps us to eval
       * step size is smaller than the tolerance.
 
 
-Now while training the model 
+## Gradient Descent algorithm Visualisation
+
+Cost function value converging to minimum value as the number of iterations increasing.
+![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
+
 ![1) best fit line](https://user-images.githubusercontent.com/37456341/158859589-be43fcb1-e0cf-4051-a108-42e0b49256e4.gif)
 
-![2) gd algo](https://user-images.githubusercontent.com/37456341/158860140-67475a8d-fe71-44aa-a2be-c7bb082e20ab.gif)
+
 ## y-intercept(b) V/S epochs plot
 
 Intially the intercept value is decreasing with iterations.
