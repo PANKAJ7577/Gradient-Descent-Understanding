@@ -15,7 +15,7 @@ As data is sort of linearly distributed so we need to find out the best fit line
       
       b=y-intercept of line
 
-w.r.t. problem equation is: package = m * CGPA + b
+#### For given problem equation is: package = m * CGPA + b
 
 So during the training of the model we need to find out the values of m and b w.r.t best fit line.
 
